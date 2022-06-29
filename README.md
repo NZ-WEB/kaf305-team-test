@@ -1,8 +1,7 @@
 # kaf305-team-test
 
-# Updated
+# hello world
 
-## Project setup
 ```
 yarn install
 ```
